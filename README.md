@@ -1,7 +1,7 @@
 # CurrencyConverter
 Currency Converter 
 
-Frontend - React
+Frontend - React,
 Backend - Node.js and Express
 
 How to start?
